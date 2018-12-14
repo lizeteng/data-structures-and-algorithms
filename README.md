@@ -3,3 +3,4 @@
 # [https://time.geekbang.org/column/intro/126](https://time.geekbang.org/column/intro/126)
 
 - 复杂度 [总结](./notes/Complexity.md)
+- 数组 [总结](./notes/Array.md)
