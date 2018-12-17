@@ -174,7 +174,9 @@ public class ArrayList {
         for (int i = size - 1; i >= index; i--){
             elementData[i + 1] = elementData[i];
         }
+
         elementData[index] = element;
+
         size++;
     }
 
@@ -192,9 +194,11 @@ public class ArrayList {
         }
 
         int oldElement = elementData[index];
+
         for (int i = index; i < size - 1; i++) {
             elementData[i] = elementData[i + 1];
         }
+
         elementData[--size] = 0;
 
         return oldElement;
@@ -208,6 +212,7 @@ public class ArrayList {
         for (int i = 0; i < size; i++) {
             elementData[i] = 0;
         }
+
         size = 0;
     }
 
@@ -225,6 +230,7 @@ public class ArrayList {
         for (int i = 0; i < oldCapacity; i++) {
             newElementData[i] = elementData[i];
         }
+
         elementData = newElementData;
     }
 
