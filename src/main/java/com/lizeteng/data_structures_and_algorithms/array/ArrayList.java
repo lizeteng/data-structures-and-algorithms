@@ -1,4 +1,4 @@
-package lizeteng.data_structures_and_algorithms._05_array;
+package lizeteng.data_structures_and_algorithms.array;
 
 /**
  * Simple ArrayList.
