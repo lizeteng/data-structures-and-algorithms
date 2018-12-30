@@ -7,3 +7,4 @@
   [实现](./src/main/java/com/lizeteng/data_structures_and_algorithms/array/ArrayList.java)
 - 链表 [总结](./notes/Linkedlist.md)
   [实现](./src/main/java/com/lizeteng/data_structures_and_algorithms/linkedlist/LinkedList.java)
+  [练习](./src/main/java/com/lizeteng/data_structures_and_algorithms/exercise)
