@@ -1,7 +1,7 @@
 package lizeteng.data_structures_and_algorithms.linkedlist;
 
 /**
- * Simple linked list
+ * Simple linked list.
  *
  * @author lizeteng
  * @date 2018/12/25
