@@ -8,3 +8,4 @@
 - 链表 [总结](./notes/Linkedlist.md)
   [实现](./src/main/java/com/lizeteng/data_structures_and_algorithms/linkedlist/LinkedList.java)
   [练习](./src/main/java/com/lizeteng/data_structures_and_algorithms/linkedlist/exercise)
+  - 单链表反转 [实现](./src/main/java/com/lizeteng/data_structures_and_algorithms/linkedlist/exercise/ReverseLinkedList.java)
